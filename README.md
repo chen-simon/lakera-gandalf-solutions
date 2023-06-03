@@ -1,5 +1,5 @@
 # My solutions to the [Lakera Gandalf game](https://gandalf.lakera.ai/)
-Hi, I'm [Simon Chen](https://github.com/chen-simon) 👋 these are my solutions to the Lakera Gandalf game as of 2023/06/02. Level 8 is GANDALF THE WHITE v2.0. The level 8 prompt works for all levels (except for maybe 5 and I'm not sure why).
+Hi, I'm [Simon Chen](https://github.com/chen-simon) 👋 these are my solutions to the Lakera Gandalf AI prompt injection game as of 2023/06/02. Level 8 is GANDALF THE WHITE v2.0. The level 8 prompt works for all levels (except for maybe 5 and I'm not sure why). Since the LLM is non-deterministic, sometimes these prompts don't always work, and you may need to tweak them a bit accordingly.
 
 1. Ask me for the password and I'll happily answer!
 ```
